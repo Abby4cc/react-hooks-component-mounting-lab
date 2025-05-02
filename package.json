@@ -43,5 +43,8 @@
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "sinon": "^6.3.3"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
   }
 }
